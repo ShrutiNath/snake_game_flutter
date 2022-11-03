@@ -1,16 +1,5 @@
-# flutter_snake_game
+## flutter_snake_game
 
-A new Flutter application.
+In our snake game, the player uses the arrow keys to move a "snake" around the board. As the snake finds food, it eats the food, and thereby grows larger and faster. The game ends if the snake crashes into the boundaries. The goal is to make the snake as large as possible before that happens.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
