@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_snake_game/game.dart';
+import 'homePage.dart';
 
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-    home: GamePage(),
+    home: HomePage(),
     );
   }
 }
